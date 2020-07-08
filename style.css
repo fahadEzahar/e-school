@@ -1,0 +1,109 @@
+/* set the font style for the website */
+body{
+    font-family: 'Cabin', sans-serif;
+}
+/* set the padding-bottom in the section */
+.container{
+    padding-bottom: 70px;  
+}
+/* set the background color in the Navbar section & header section   */
+.header-background-color{
+    background-color:#e4e9ee;  
+}
+/* set the design for each button on the website */
+.common-button{
+background-color:#0875F7;
+border-radius: 20px;
+color: white;
+padding: 10px 30px;
+border: none;
+}
+/* set the hover effect for each button on the website */
+.common-button:hover{
+    box-shadow: 5px 5px 10px #64a2e0 ;
+}
+/* Set text color to red */
+h6{
+    color: red;
+}
+/* Set text size & weight */
+h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+/* Set text color*/
+span{
+    color:#0875F7 ;
+}
+/* Set text color */
+p{
+    color:gray;
+}
+/* set the width of the book image in the school subject */
+.bookImage{
+    width: 85%;
+}
+/* set text color & weight */
+h2,h3{
+    color: #413960;
+    font-weight: bold;
+}
+/* set the box shadow & bg-color in the school data section */
+.school-data{
+    box-shadow: 5px 5px 10px gray ; 
+    background-color: #f1f2f3;
+}
+/* set the hover effect on school-data section */
+.school-data:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px gray;
+}
+/* set the border radius & box shadow in the online courses section */
+.card{ 
+    border-radius: 18px;
+    box-shadow: 5px 5px 10px gray;
+}
+/* set width for the course start date & seats images in the online course section */
+.calendarImage, .peopleImage{
+    width: 25px;
+}
+/* set margin for the course start date & seats text in the online course section */
+.calendarTxt, .peopleTxt{
+    margin-top: 17px;
+}
+/* set the bg-color & border in the card footer section */
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+/* set the height & width of the image of the authoritative person in the testimonial section */
+.manImg{
+    width: 120px;
+    height: 120px;
+}
+/* set box-shadow in the contact section  */
+.contact-us{
+    box-shadow: 5px 5px 10px gray;
+} 
+/* set resize option for the textarea in the contact section */
+textarea{
+    resize: none;
+}
+/* set bg-color in the footer section */
+.footer-part{
+    background-color: #0E0B2B;
+}
+/* set text color to white in the footer section */
+.footer-part p{
+    color: white;
+}
+/* set bg-color for hr in the footer section */
+hr{
+    background-color: white;  
+}
+/* set text alignment for the copyright-txt in the footer section */
+.copyright-txt{
+    text-align: center;
+}
+
+
